@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "e8qTwgMFZXM=",
+  "success": true,
+  "projectFilePath": "D:\\Cursorcode\\自动填充数据\\test1\\test1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\123\\.nuget\\packages\\documentformat.openxml\\3.3.0\\documentformat.openxml.3.3.0.nupkg.sha512",
+    "C:\\Users\\123\\.nuget\\packages\\documentformat.openxml.framework\\3.3.0\\documentformat.openxml.framework.3.3.0.nupkg.sha512",
+    "C:\\Users\\123\\.nuget\\packages\\system.io.packaging\\8.0.1\\system.io.packaging.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
